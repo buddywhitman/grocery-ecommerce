@@ -14,10 +14,10 @@
   </tr>
 </table>
 
-#### This is a Responsive HTML5 Ecommerce Grocery Website with Combining Bootstrap CSS, Javascript, Jquery And Some other useful plugins like Zoom.js, Slider.js, Mega Slider and So On. Just Check this template and Hope you can find almost every feature you need in an any template.
+#### This is a Responsive HTML5 Ecommerce Grocery Website with Bootstrap CSS, Javascript, Jquery, And other valuable plugins like Zoom.js, Slider.js, Mega Slider.
 
 
-## Template is live at - [ShopHaven](https://buddywhitman.github.io/grocery-ecommerce)
+## Website is live at - [ShopHaven](https://buddywhitman.github.io/grocery-ecommerce)
 <!--
 <br />
 
